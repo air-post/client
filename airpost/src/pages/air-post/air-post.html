@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Air Posts Around You</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only (click)="newPost()"><ion-icon name="add"></ion-icon></button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <div [hidden]="!loading" text-center padding>
+    <ion-spinner></ion-spinner>
+  </div>
+  <ion-refresher (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content pullingText="loading.."></ion-refresher-content>
+  </ion-refresher>
+  <ion-list *ngIf="posts.length">
+    <button ion-item *ngFor="let post of posts" (click)="details(post.id)">
+      <ion-icon name="mail"></ion-icon>
+      {{post?.attributes.title}}
+    </button>
+  </ion-list>
+</ion-content>

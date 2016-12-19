@@ -1,0 +1,23 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>New Air Post</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <form [formGroup]="airPostForm" (ngSubmit)="onSubmit(airPostForm)">
+    <ion-item>
+      <ion-label floating>Title</ion-label>
+      <ion-input formControlName="title" type="text"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label floating>Content</ion-label>
+      <ion-input formControlName="content" type="text"></ion-input>
+    </ion-item>
+    <button ion-button block type="submit" [disabled]="!airPostForm.valid">Create</button>
+  </form>
+
+</ion-content>

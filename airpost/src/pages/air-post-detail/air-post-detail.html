@@ -1,0 +1,38 @@
+<ion-header>
+  <ion-navbar>
+    <ion-buttons left>
+      <button ion-button icon-only (click)="dismiss()">
+        <ion-icon name="arrow-back"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title>{{post?.attributes.title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card *ngIf="post">
+    <ion-list>
+      <ion-item>
+        <p>{{post.attributes.content}}</p>
+      </ion-item>
+      <ion-item>
+        Type
+        <ion-note item-right>{{post.type}}</ion-note>
+      </ion-item>
+      <ion-item>
+        Latitude
+        <ion-note item-right>{{post.attributes.latitude}}</ion-note>
+      </ion-item>
+      <ion-item>
+        Longitude
+        <ion-note item-right>{{post.attributes.longitude}}</ion-note>
+      </ion-item>
+      <ion-item>
+        Expiry Date
+        <ion-note item-right>{{post.attributes.expiry_time}}</ion-note>
+      </ion-item>
+    </ion-list>
+
+  </ion-card>
+
+</ion-content>
