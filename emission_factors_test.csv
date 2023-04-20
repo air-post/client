@@ -1,0 +1,175 @@
+﻿Money Movement,Category,Sub-category,Sub-category ID,Subcategory Slug,Emissions Factor kg CO2e/$
+Expense,ATM/Other Withdrawals,ATM/EFTPOS Withdrawal,5,atm_eftpos_withdrawal,0.2191051
+Expense,ATM/Other Withdrawals,Branch Withdrawal,86,branch_withdrawal,0.1243045
+Expense,ATM/Other Withdrawals,Cheque Withdrawal,29,cheque_withdrawal,0.0848884
+Expense,ATM/Other Withdrawals,Online Withdrawal,147,online_withdrawal,0.2104885
+Expense,Auto & Transport,Bicycle Hire & Expenses,217,bicycle_hire_expenses,0.0760226
+Expense,Auto & Transport,Bike & Bike Expenses,90,motorcycle_expenses,0.1072298
+Expense,Auto & Transport,Boat & Boat Expenses,91,boat_boat_expenses,0.1775726
+Expense,Auto & Transport,Car Insurance & CTP,67,car_insurance_ctp,0.1775726
+Expense,Auto & Transport,Car Registration,68,car_registration,0.1775726
+Expense,Auto & Transport,Car Rental,89,car_rental,0.1775726
+Expense,Auto & Transport,Car Servicing,69,car_servicing,0.1775726
+Expense,Auto & Transport,Drivers Licence & Lessons,92,drivers_licence_lessons,0.1775726
+Expense,Auto & Transport,Driving Fines,50,driving_fines,0.1775726
+Expense,Auto & Transport,Other Car Expenses,37,other_car_expenses,0.0760226
+Expense,Auto & Transport,Parking,44,parking,0.1243045
+Expense,Auto & Transport,Petrol,30,petrol,0.0220698
+Expense,Auto & Transport,Public Transport,57,public_transport,0.0220698
+Expense,Auto & Transport,Taxis & Ride Share,213,taxis_ride_share,0.0220698
+Expense,Auto & Transport,Tolls & eTag,70,tolls_etag,0.0471237
+Expense,Business Services,Administration Expenses,40,office_expenses,0.0339775
+Expense,Business Services,Cleaning,185,cleaning,0.0339775
+Expense,Business Services,Computer & IT Expenses,187,computer_it_expenses,0.0339775
+Expense,Business Services,Postage & Shipping,23,postage_shipping,0.0471237
+Expense,Business Services,Printing & Stationery,186,printing_stationery,0.0339775
+Expense,Business Services,Research & Development,188,research_development,0.0339775
+Expense,Business Services,Security,189,security,0.0471237
+Expense,Business Services,Training & Workshops,94,training_workshops,0.0339775
+Expense,Cost of Sales,Inventory Purchases,190,inventory_purchases,0.0848884
+Expense,"Dining, Bars & Cafe",Bar & Pubs,46,bar_pubs,0.0848884
+Expense,"Dining, Bars & Cafe",Breakfast,96,breakfast,0.1421731
+Expense,"Dining, Bars & Cafe",Business Meals,201,business_meals,0.0983787
+Expense,"Dining, Bars & Cafe",Coffee Shops,47,coffee_shops,0.190829
+Expense,"Dining, Bars & Cafe",Lunch,98,lunch,0.0884329
+Expense,"Dining, Bars & Cafe",Restaurants & Dining,8,restaurants_dining,0.2675995
+Expense,"Dining, Bars & Cafe",Take away & fast food,97,take_away_fast_food,0.3537128
+Expense,Education & Training,Education Fees,39,education_fees,0.2502242
+Expense,Education & Training,Education Supplies,58,education_supplies,0.3537128
+Expense,Fees & Charges,Interest Paid,18,interest_paid,1.0742105
+Expense,Fees & Charges,Service Charges & Fees,4,service_charges_fees,0.1074324
+Expense,Financial & Insurance,Bank Charges,192,bank_charges,0.1074324
+Expense,Financial & Insurance,Dividends Paid,193,dividends_paid,0.0339775
+Expense,Financial & Insurance,Home & Content Insurance,83,home_content_insurance,0.1074324
+Expense,Financial & Insurance,Income Protection,82,income_protection,0.1074324
+Expense,Financial & Insurance,Insurance,88,insurance,0.190179558
+Expense,Financial & Insurance,Investment & Shares,54,investment_shares,0.1074324
+Expense,Financial & Insurance,Life Insurance,25,life_insurance,0.1384988
+Expense,Financial & Insurance,Other Insurance,80,other_insurance,0.2010256
+Expense,Financial & Insurance,Retirement Contributions,52,retirement_contributions,0.0848884
+Expense,Financial & Insurance,Work Cover,191,work_cover,0.1445962
+Expense,Gifts & Donations,Charity,34,charity,0.1445962
+Expense,Gifts & Donations,Church donation & Tithe,101,church_donation_tithe,0.1243045
+Expense,Gifts & Donations,Gifts,26,gifts,0.1247339
+Expense,Groceries,Alcohol,48,alcohol,0.1421731
+Expense,Groceries,Bakery,103,bakery,0.1464074
+Expense,Groceries,Cigarettes,75,cigarettes,0.172624
+Expense,Groceries,Coffee supplies,104,coffee_supplies,0.1421731
+Expense,Groceries,Convenience Stores,85,convenience_stores,0.172624
+Expense,Groceries,Fruit & Veggies,102,fruit_veggies,0.172624
+Expense,Groceries,Groceries,10,groceries,0.1567836
+Expense,Groceries,Meat,60,meat,0.1072298
+Expense,Health,Dental health,108,dental_health,0.103167
+Expense,Health,Glasses and contact lenses,107,glasses_and_contact_lenses,0.1072298
+Expense,Health,Health Insurance,79,health_insurance,0.1445962
+Expense,Health,Healthcare & Medical,11,healthcare_medical,0
+Expense,Health,Hospital Expenses,109,hospital_expenses,0.103167
+Expense,Health,Medicine & Supplements,106,medicine_supplements,0.5072275
+Expense,Health,Specialists & Natural Therapies,105,specialists_natural_therapies,0.1445962
+Expense,Hobbies & Entertainment,Betting & Lottery,84,betting_lottery,0.0760226
+Expense,Hobbies & Entertainment,Club Membership,74,club_membership,0.2675995
+Expense,Hobbies & Entertainment,Dues & Subscriptions,41,dues_subscriptions,0.3932584
+Expense,Hobbies & Entertainment,Entertainment & Recreation,12,entertainment_recreation,0.0760226
+Expense,Hobbies & Entertainment,Events & Concerts,99,events_concerts,0.1091422
+Expense,Hobbies & Entertainment,"Movies, Music & Books",59,movies_music_books,0.0848884
+Expense,Hobbies & Entertainment,Online Services,9,online_services,0.0471237
+Expense,Home,Appliances,110,appliances,0.0471237
+Expense,Home,Furniture & Art,112,furniture_art,0.0471237
+Expense,Home,Home Improvement,28,home_improvement,0.0471237
+Expense,Home,Household,56,household,0.0471237
+Expense,Home,Housekeeping & Gardening,113,housekeeping_gardening,0.0471237
+Expense,Home,Investment Property Expenses,111,investment_property_expenses,0.1072298
+Expense,Home,Storage,114,storage,0
+Income,Income - Other,Bonuses,117,bonuses,0.204983
+Income,Income - Other,Child Support,116,child_support,0.2386469
+Income,Income - Other,Deposits,14,deposits,0.0992667
+Income,Income - Other,Dividends Received,180,dividends_received,0.2010256
+Income,Income - Other,Expense Reimbursement,66,expense_reimbursement,0.204983
+Income,Income - Other,Government Payments,118,government_benefits_allowances,0.2386469
+Income,Income - Other,Grants & Subsidies,181,grants_subsidies,0.3932584
+Income,Income - Other,Interest Received,51,interest_received,0.2675995
+Income,Income - Other,Investment Income,31,investment_income,0.0339775
+Income,Income - Other,Money lent,120,money_lent,0.3932584
+Income,Income - Other,Other Income,2,other_income,0.1095814
+Income,Income - Other,Pocket Money Received,182,pocket_money_received,0.1152057
+Income,Income - Other,Refunds and rebates,119,refunds_and_rebates,0.0848884
+Income,Income - Other,Rental Income,115,rental_income,0.1178043
+Income,Income - Other,Retirement Income,146,retirement_income,0.0900856
+Income,Income - Other,Rewards,145,rewards,0.0900856
+Income,Income - Pay & Salary,Income - Pay & Salary,13,income_pay_salary,0.1013463
+Income,Income - Sales,Professional Fees Revenue,183,professional_fees_revenue,2.280486506
+Income,Income - Sales,Sales revenue,65,sales_services,2.6459305
+Income,Income - Sales,Service Income,184,service_income,0.1777739
+Expense,Kids,Baby expenses,126,baby_expenses,2.463208503
+Expense,Kids,Child Care,61,child_care,0.1777739
+Expense,Kids,Family expenses,35,family_expenses,0.172624
+Expense,Kids,Kids Activities,77,kids_activities,0.1013463
+Expense,Kids,Kids Allowance,125,kids_allowance,2.463208503
+Expense,Kids,Kids Care & Babysitting,124,kids_care_babysitting,0.3089975
+Expense,Kids,Kids Clothing & Shoes,121,kids_clothing_shoes,0.1243045
+Expense,Kids,Kids Entertainment,123,kids_entertainment,0.5072275
+Expense,Kids,Kids School,62,kids_school,0.1506392
+Expense,Kids,Lunches & Food,122,lunches_food,0.1421731
+Expense,Kids,Toys & Games,127,toys_games,0.2650205
+Expense,Kids,Tutoring,76,tutoring,0.1243045
+Expense,Marketing,Advertising Expenses,195,advertising_expenses,0.1072298
+Expense,Marketing,Marketing Expenses,194,marketing_expenses,0.1072298
+Expense,Mortgage & Loans,Car Loan,128,car_loan,0
+Expense,Mortgage & Loans,Debt repayment,129,debt_repayment,0
+Expense,Mortgage & Loans,Loan Repayment,20,loan_repayment,0
+Expense,Mortgage & Loans,Mortgages,81,mortgages,0
+Expense,Mortgage & Loans,Personal Loan,131,personal_loan,0.1013463
+Expense,Mortgage & Loans,Student Loan,130,student_loan,0.1072298
+Expense,Other Expenses,Other Expenses,6,other_expenses,0
+Expense,Pending,Pending,144,pending,0.0471237
+Expense,Personal Care,Beauty,132,beauty,0
+Expense,Personal Care,Cosmetics,133,cosmetics,0.1410159
+Expense,Personal Care,Dry Cleaning & Laundry,134,dry_cleaning_laundry,1.5809086
+Expense,Personal Care,Gym & Fitness,49,gym_fitness,0.1072298
+Expense,Personal Care,Hair & Grooming,87,hair_grooming,0.0870844
+Expense,Personal Care,Personal Care,16,personal_care,0.1013463
+Expense,Pets,Pet Expenses,138,pet_expenses,0.1410159
+Expense,Pets,Pet Food,136,pet_food,0.0339775
+Expense,Pets,Pet Insurance,137,pet_insurance,0.1072298
+Expense,Pets,Pets & Pet Care,22,pets_pet_care,
+Expense,Pets,Vet,135,vet,0.1072298
+Expense,Professional Fees,Accounting Fees,100,accountant_tax_agent_fees,0.1072298
+Expense,Professional Fees,Consulting Fees,196,consulting_fees,0.1072298
+Expense,Professional Fees,Legal Expenses,95,legal_and_professional_services,0
+Expense,Rent,Bond,139,bond,0.200094
+Expense,Rent,Rent,24,rent,0.2920091
+Expense,Services & Utilities,Council Rates,55,council_rates,0.2607286
+Expense,Services & Utilities,Electricity,215,electricity,0.0339775
+Expense,Services & Utilities,Gas,214,gas,0.1591869
+Expense,Services & Utilities,Internet,36,internet,0.1602485
+Expense,Services & Utilities,Investment Property Bills,93,investment_property_bills,0.1591869
+Expense,Services & Utilities,Pay TV & Telephone,21,pay_tv_telephone,0.0760226
+Expense,Services & Utilities,Repairs & Maintenance,197,repairs_maintenance,0.1013463
+Expense,Services & Utilities,Strata & Body Corporate,73,strata_body_corporate,0.1591869
+Expense,Services & Utilities,Utilities - Other,15,utilities_other,0.1974954
+Expense,Services & Utilities,Water,216,water,0.1013463
+Expense,Shopping,Books,42,books,0.1072298
+Expense,Shopping,Clothes & Shoes,17,clothes_shoes,0
+Expense,Shopping,Electronics & Software,33,electronics_software,0.0471237
+Expense,Shopping,Homeware,78,homeware,0
+Expense,Shopping,Jewellery,140,jewellery,0.1410159
+Expense,Shopping,Newsagent,141,newsagent,1.5809086
+Expense,Shopping,Online Shopping,63,online_shopping,0.1072298
+Expense,Shopping,Other Shopping,43,other_shopping,0.0870844
+Expense,Staff Related,Contractor Fees,199,contractor_fees,0.1013463
+Expense,Staff Related,Superannuation Expenses,200,superannuation_expenses,0.3537128
+Expense,Staff Related,Wages & Salaries Expenses,198,wages_salaries_expenses,0.2502242
+Expense,Tax,Tax Refund,53,tax_refund,0.3537128
+Expense,Tax,Taxes Paid,27,taxes_paid,1.0742105
+Transfers,Transfers,Credit Card Payments,19,credit_card_payments,0.1074324
+Transfers,Transfers,Savings,32,savings,0.1074324
+Transfers,Transfers,Securities Trades,38,securities_trades,0.0339775
+Transfers,Transfers,Transfers,3,transfers,0.1074324
+Expense,Travel,Accommodation,71,accommodation,0.1074324
+Expense,Travel,Flights,64,flights,0.190179558
+Expense,Travel,Foreign currency,142,foreign_currency_pocket_money,0.1074324
+Expense,Travel,Other Travel Expenses,72,other_travel_expenses,0.1384988
+Expense,Travel,Passports & Visas,143,passports_visas,0.2010256
+Expense,Travel,Travel,7,travel,0.0848884
+Expense,Travel,Travel Insurance,45,travel_insurance,0.1445962
+Expense,Uncategorised,Uncategorised,1,uncategorised,0.1445962
